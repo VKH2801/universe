@@ -4,4 +4,5 @@ code a universe with js
 + Using Three.js – JavaScript 3D Library
 + Canva to create shape
 
-![image](https://user-images.githubusercontent.com/90561566/202168833-0183a897-6f5d-49d0-86df-138ffbe8cf23.png)
+![image](https://user-images.githubusercontent.com/81975442/202890388-948e96fe-271a-47fb-a0ca-5ea1f74623dd.png)
+
